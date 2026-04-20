@@ -1,0 +1,13 @@
+RESUMEN PIPELINE ML - SDSS
+========================================
+
+CLASIFICACION KNN (k=5)
+  Accuracy: 0.9933
+
+REGRESION LINEAL
+  MSE:  0.2985
+  RMSE: 0.5463
+  R2:   0.5153
+
+CLUSTERING KMEANS (k=3)
+  Distribucion: {2: 353, 0: 350, 1: 297}

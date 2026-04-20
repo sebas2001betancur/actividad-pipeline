@@ -1,0 +1,24 @@
+{
+  "clasificacion": {
+    "modelo": "KNN",
+    "k": 5,
+    "accuracy": 0.9933,
+    "train_size": 700,
+    "test_size": 300
+  },
+  "regresion": {
+    "modelo": "RegresionLineal",
+    "mse": 0.2985,
+    "rmse": 0.5463,
+    "r2": 0.5153
+  },
+  "clustering": {
+    "modelo": "KMeans",
+    "n_clusters": 3,
+    "distribucion": {
+      "2": 353,
+      "0": 350,
+      "1": 297
+    }
+  }
+}
