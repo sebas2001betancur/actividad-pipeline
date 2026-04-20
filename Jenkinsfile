@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent { dockerfile true }
 
     environment {
         IMAGE_NAME = 'ml-pipeline-sdss'
